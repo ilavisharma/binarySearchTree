@@ -33,7 +33,7 @@ for (var i = 0; i < 10; i++) {
 console.log(tree);
 ```
 
-![Tree](assets/images/tree.png)
+![Tree](https://github.com/ilavisharma/binarySearchTree/blob/master/assets/images/tree.PNG)
 
 
 
