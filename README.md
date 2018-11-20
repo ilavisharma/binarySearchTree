@@ -33,7 +33,7 @@ for (var i = 0; i < 10; i++) {
 console.log(tree);
 ```
 <p align="center">
-    <img src="./assets/images/tree.png">
+    <img src="assets/images/tree.png">
 </p>
 
 
@@ -53,7 +53,7 @@ Node.prototype.visit = function () {
 }
 ```
 <p align="center">
-    <img src="./assets/images/tree_traverse.png">
+    <img src="assets/images/tree_traverse.png">
 </p>
 *An in-order traversal of a binary search tree will always result in a sorted list of node items.*
 
@@ -87,7 +87,7 @@ Node.prototype.searchValue = function (value) {
 }
 ```
 <p align="center">
-    <img src="./assets/images/tree_search.png">
+    <img src="assets/images/tree_search.png">
 </p>
 
 ### Insertion
@@ -118,5 +118,5 @@ Node.prototype.addNode = function (n) {
 }
 ```
 <p align="center">
-    <img src="./assets/images/add_value.png">
+    <img src="assets/images/add_value.png">
 </p>
