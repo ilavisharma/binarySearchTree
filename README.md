@@ -32,9 +32,9 @@ for (var i = 0; i < 10; i++) {
 }
 console.log(tree);
 ```
-<p align="center">
+
     ![Tree](assets/images/tree.png)
-</p>
+
 
 
 ### Traversal
