@@ -52,9 +52,7 @@ Node.prototype.visit = function () {
         this.right.visit();
 }
 ```
-<p align="center">
-    ![Tree](assets/images/tree_traverse.png)
-</p>
+![Tree](https://github.com/ilavisharma/binarySearchTree/blob/master/assets/images/tree_traverse.PNG)
 *An in-order traversal of a binary search tree will always result in a sorted list of node items.*
 
 ## Operations
@@ -86,9 +84,7 @@ Node.prototype.searchValue = function (value) {
     return null;
 }
 ```
-<p align="center">
-    ![Tree](assets/images/tree_search.png)
-</p>
+![Tree](https://github.com/ilavisharma/binarySearchTree/blob/master/assets/images/tree_search.PNG)
 
 ### Insertion
 Insertion begins as a search would begin, we examine the root and recursively insert the new node to the left subtree if its key is less than that of the root, or the right subtree if its key is greater than or equal to the root.
@@ -117,6 +113,4 @@ Node.prototype.addNode = function (n) {
     }
 }
 ```
-<p align="center">
-    ![Tree](assets/images/add_value.png)
-</p>
+![Tree](https://github.com/ilavisharma/binarySearchTree/blob/master/assets/images/add_value.PNG)
